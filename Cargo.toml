@@ -1,5 +1,5 @@
 [package]
-name = "rvg-rust-libs"
+name = "rvg"
 version = "0.1.0"
 edition = "2021"
 
